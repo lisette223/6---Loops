@@ -8,5 +8,5 @@ var roll = 0
 
 
 /*:
-[Previous](@previous)  |  page 3 of 6  |  [Next: App Exercise - Running Cadence](@next)
+[Previous](@previous)  |  page 2 of 3  |  [Next: Exercise - Control Transfer Statements](@next)
  */

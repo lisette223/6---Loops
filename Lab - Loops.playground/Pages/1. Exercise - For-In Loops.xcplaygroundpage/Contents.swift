@@ -13,5 +13,5 @@ let alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 
 /*:
-page 1 of 6  |  [Next: App Exercise - Movements](@next)
+page 1 of 3  |  [Next: Exercise - While Loops](@next)
  */
